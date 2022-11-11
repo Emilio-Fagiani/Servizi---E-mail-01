@@ -2,11 +2,11 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username: angelo.develhope@gmail.com
-    password: ljlaybondxauhavs
+    username: rugdece85@gmail.com
+    password: dbzo txgy okvi syrn
     properties:
       mail:
         smtp:
           auth: true
           starttls:
-            enable: truecomm
+            enable: true
